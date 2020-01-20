@@ -1,3 +1,3 @@
 {
-  greet(name):: "hello " + name + "!"
+  greet(name):: "hello " + name + ", from v2!"
 }
